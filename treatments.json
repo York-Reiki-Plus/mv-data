@@ -1,0 +1,64 @@
+# name is paypal item_name, number is item_number
+
+{
+	"treatment":	[
+		
+	{
+		"name": "30 minute treatment ",
+		"number": "Reiki-ST",
+		"amount":	30,
+		"description": "1/2 hour short treatment",
+		"shipping":	0,
+		"allow_note":	false
+	},
+		
+	{
+		"name": "1 treatment",
+		"number": "Reiki-1T",
+		"amount":	45,
+		"description": "1 treatment (one hour)",
+		"shipping":	0,
+		"allow_note":	false
+	},
+		
+	{
+		"name": "3 treatments",
+		"number": "Reiki-3T",
+		"amount":	160,
+		"description": "4 treatment course at £160 (<i>save</i> £20)",
+		"shipping":	0,
+		"allow_note":	false
+	},
+		
+	{
+		"name": "6 treatments",
+		"number": "Reiki-6T",
+		"amount":	270,
+		"description": "6 treatment course at £270 (<i>save</I> £36)",
+		"shipping":	0,
+		"allow_note":	false
+	}
+	],
+	"product":	[
+		
+	{
+		"name": "flower essence bottle",
+		"number": "FLOWER-ESSENCE",
+		"amount":	11.99,
+		"description": "Flower essence<br>(per bottle, postage included)",
+		"shipping":	0,
+		"allow_note":	false
+	}
+	],
+	"certificate": [
+		
+	{
+		"name": "replacement certificate",
+		"number": "REPLACEMENT-CERT",
+		"amount":	15.00,
+		"description": "Replacement for lost or damaged certificate<br>(Please send name, course and year issued by e-mail.)<br>Includes £4.50 P&amp;P",
+		"shipping":	0,
+		"allow_note":	true
+	}')
+	]
+}
