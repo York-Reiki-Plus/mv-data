@@ -1,8 +1,10 @@
 
 {
-	"treatment":	[
+	"product":	[
+		
 		
 	{
+		"class": "treatment",
 		"name": "30 minute treatment ",
 		"number": "Reiki-ST",
 		"amount":	30,
@@ -12,6 +14,7 @@
 	},
 		
 	{
+		"class": "treatment",
 		"name": "1 treatment",
 		"number": "Reiki-1T",
 		"amount":	45,
@@ -21,6 +24,7 @@
 	},
 		
 	{
+		"class": "treatment",
 		"name": "3 treatments",
 		"number": "Reiki-3T",
 		"amount":	160,
@@ -30,28 +34,28 @@
 	},
 		
 	{
+		"class": "treatment",
 		"name": "6 treatments",
 		"number": "Reiki-6T",
 		"amount":	270,
 		"description": "6 treatment course at £270 (<i>save</I> £36)",
 		"shipping":	0,
 		"allow_note":	false
-	}
-	],
-	"product":	[
+	},
+		
 		
 	{
+		"class": "product",
 		"name": "flower essence bottle",
 		"number": "FLOWER-ESSENCE",
 		"amount":	11.99,
 		"description": "Flower essence<br>(per bottle, postage included)",
 		"shipping":	0,
 		"allow_note":	false
-	}
-	],
-	"certificate": [
+	},
 		
 	{
+		"class": "product",
 		"name": "replacement certificate",
 		"number": "REPLACEMENT-CERT",
 		"amount":	15.00,
