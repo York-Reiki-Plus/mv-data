@@ -31,7 +31,7 @@
 		"name": "4 treatments",
 		"number": "Reiki-4T",
 		"amount":	160,
-		"description": "4 treatment course at £160",
+		"description": "4 treatment course",
 		"shipping":	0,
 		"allow_note":	false,
 		"count": 4
@@ -42,7 +42,7 @@
 		"name": "6 treatments",
 		"number": "Reiki-6T",
 		"amount":	235,
-		"description": "6 treatment course at £235",
+		"description": "6 treatment course",
 		"shipping":	0,
 		"allow_note":	false,
 		"count": 6
