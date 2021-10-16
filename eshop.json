@@ -28,8 +28,8 @@
 		
 	{
 		"kind": "treatment",
-		"name": "3 treatments",
-		"number": "Reiki-3T",
+		"name": "4 treatments",
+		"number": "Reiki-4T",
 		"amount":	160,
 		"description": "4 treatment course at £160",
 		"shipping":	0,
