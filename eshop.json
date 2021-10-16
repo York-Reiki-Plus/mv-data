@@ -41,8 +41,8 @@
 		"kind": "treatment",
 		"name": "6 treatments",
 		"number": "Reiki-6T",
-		"amount":	270,
-		"description": "6 treatment course at £270",
+		"amount":	235,
+		"description": "6 treatment course at £235",
 		"shipping":	0,
 		"allow_note":	false,
 		"count": 6
