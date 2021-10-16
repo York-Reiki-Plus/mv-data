@@ -1,5 +1,6 @@
 
 {
+	"hourly": 45,
 	"product":	[
 		
 		
@@ -10,7 +11,8 @@
 		"amount":	30,
 		"description": "1/2 hour short treatment",
 		"shipping":	0,
-		"allow_note":	false
+		"allow_note":	false,
+		"count": 0.5
 	},
 		
 	{
@@ -20,7 +22,8 @@
 		"amount":	45,
 		"description": "1 treatment (one hour)",
 		"shipping":	0,
-		"allow_note":	false
+		"allow_note":	false,
+		"count": 1
 	},
 		
 	{
@@ -28,9 +31,10 @@
 		"name": "3 treatments",
 		"number": "Reiki-3T",
 		"amount":	160,
-		"description": "4 treatment course at £160 (<i>save</i> £20)",
+		"description": "4 treatment course at £160",
 		"shipping":	0,
-		"allow_note":	false
+		"allow_note":	false,
+		"count": 4
 	},
 		
 	{
@@ -38,9 +42,10 @@
 		"name": "6 treatments",
 		"number": "Reiki-6T",
 		"amount":	270,
-		"description": "6 treatment course at £270 (<i>save</I> £36)",
+		"description": "6 treatment course at £270",
 		"shipping":	0,
-		"allow_note":	false
+		"allow_note":	false,
+		"count": 6
 	},
 		
 		
@@ -51,7 +56,8 @@
 		"amount":	11.99,
 		"description": "Flower essence<br>(per bottle, postage included)",
 		"shipping":	0,
-		"allow_note":	false
+		"allow_note":	false,
+		"count": 1
 	},
 		
 	{
@@ -59,9 +65,10 @@
 		"name": "replacement certificate",
 		"number": "REPLACEMENT-CERT",
 		"amount":	15.00,
-		"description": "Replacement for lost or damaged certificate<br>(Please send name, course and year issued by e-mail.)<br>Includes £4.50 P&amp;P",
+		"description": "Replacement for lost or damaged certificate\n(Please send name, course and year issued by e-mail.)\nIncludes £4.50 P&P",
 		"shipping":	0,
-		"allow_note":	true
+		"allow_note":	true,
+		"count": 1
 	}
 	]
 }
