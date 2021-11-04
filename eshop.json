@@ -48,13 +48,35 @@
 		"count": 6
 	},
 		
+	{
+		"kind": "treatment",
+		"name": "intuitive healing",
+		"number": "IntuitiveHealing",
+		"amount":	20,
+		"description": "extra: intuitive healings",
+		"shipping":	0,
+		"allow_note":	false,
+		"count": 1
+	},
+		
+	{
+		"kind": "treatment",
+		"name": "access bars",
+		"number": "AccessBar",
+		"amount":	45,
+		"description": "extra: Access Bars",
+		"shipping":	0,
+		"allow_note":	false,
+		"count": 1
+	},
+		
 		
 	{
 		"kind": "product",
 		"name": "flower essence bottle",
 		"number": "FLOWER-ESSENCE",
 		"amount":	11.99,
-		"description": "Flower essence<br>(per bottle, postage included)",
+		"description": "Flower essence\n(per bottle, postage included)",
 		"shipping":	0,
 		"allow_note":	false,
 		"count": 1

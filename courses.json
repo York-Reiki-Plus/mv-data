@@ -1,0 +1,25 @@
+{
+"courses": [{
+	"id": "2021202-R1",
+	"date": "2021-12-02",
+	"cost": 150.00,
+	"deposit": 75.00,
+	"name": "Reiki1",
+	"description": "burble R1",
+	"booked": 2,
+	"limit": 6,
+	"paypal": {"data": "paypal data"}
+	},
+	{
+	"id": "2021-11-26-R2",
+	"date": "2021-11-26",
+	"cost": 150.00,
+	"deposit": 75.00,
+	"name": "Reiki2",
+	"description": "burble R2",
+	"booked": 6,
+	"limit": 6,
+	"paypal": {"data": "paypal data 2"}
+	}
+]
+}
