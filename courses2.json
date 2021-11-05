@@ -1,0 +1,40 @@
+{
+	"courses": [
+		{
+			"name": "Reiki1",
+			"description": "burble R1",
+			"cost": 150.00,
+			"deposit": 75.00,
+			"dates": [
+				{"date": "2021-12-02", "booked": 6, "limit": 6}
+			]
+		},
+		{
+			"name": "Reiki2",
+			"description": "burble R2",
+			"cost": 180.00,
+			"deposit": 80.00,
+			"dates": [
+				{"date": "2012-12-05", "booked": 2, "limit": 6}
+			]
+		},
+		{
+			"name": "Reiki Deepening",
+			"description": "burble Deepening",
+			"cost": 220.00,
+			"deposit": 110.00,
+			"dates": [
+				{"date": "2022-02-20", "booked": 1, "limit": 6}
+			]
+		},
+		{
+			"name": "Reiki Master",
+			"description": "burble Master",
+			"cost": 480.00,
+			"deposit": 130.00,
+			"dates": [
+				{"date": "2021-11-20", "booked": 1, "limit": 4}
+			]
+		}
+	]
+}
