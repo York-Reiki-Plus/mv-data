@@ -1,7 +1,7 @@
 {
 	"courses": [
 		{
-			"name": "Reiki1",
+			"name": "Reiki 1",
 			"description": "burble R1",
 			"cost": 150.00,
 			"deposit": 75.00,
@@ -10,7 +10,7 @@
 			]
 		},
 		{
-			"name": "Reiki2",
+			"name": "Reiki 2",
 			"description": "burble R2",
 			"cost": 180.00,
 			"deposit": 80.00,
