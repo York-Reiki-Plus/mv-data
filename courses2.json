@@ -1,39 +1,93 @@
 {
-	"courses": [
+	"courses":[
 		{
-			"name": "Reiki 1",
-			"description": "burble R1",
-			"cost": 150.00,
-			"deposit": 75.00,
-			"dates": [
-				{"date": "2021-12-02", "booked": 6, "limit": 6}
+			"id":"therapy_b5bb1299-9bf3-4e7b-b036-2c31ab3e9ac0",
+			"name":"Reiki 1",
+			"description":"Reiki beginner's course: Level 1",
+			"cost":150,
+			"deposit":75,
+			"dates":[
+				{
+					"id":"event_6545c187-6d6b-4e1c-9d9f-8b97cbe28d11",
+					"teacher_id":"user_a6e5a718-2e49-4cda-b2fa-564f56452074",
+					"teacher":"irene@yorkreikiplus.com",
+					"date":"2021-11-07",
+					"end":"2021-11-07",
+					"booked":0,
+					"limit":6
+				},
+				{
+					"id":"event_5bc52912-b397-45a5-bab3-83cba8b1977f",
+					"teacher_id":"user_a6e5a718-2e49-4cda-b2fa-564f56452074",
+					"teacher":"irene@yorkreikiplus.com",
+					"date":"2022-01-09",
+					"end":"2022-01-09",
+					"booked":0,
+					"limit":6
+				}
 			]
 		},
 		{
-			"name": "Reiki 2",
-			"description": "burble R2",
-			"cost": 180.00,
-			"deposit": 80.00,
-			"dates": [
-				{"date": "2021-12-05", "booked": 2, "limit": 6}
+			"id":"therapy_75dbe184-0244-4baf-ac4e-77f5bb4a9d01",
+			"name":"Reiki 2",
+			"description":"Second Degree (Reiki 2)",
+			"cost":180,
+			"deposit":80,
+			"dates":[
+				{
+					"id":"event_7cdc15ff-1508-4fef-bcd1-a844f83b9279",
+					"teacher_id":"user_a6e5a718-2e49-4cda-b2fa-564f56452074",
+					"teacher":"irene@yorkreikiplus.com",
+					"date":"2021-12-31",
+					"end":"2021-12-31",
+					"booked":0,
+					"limit":6
+				},
+				{
+					"id":"event_d0d823eb-b5f1-4ccd-b826-16f8b563f8f1",
+					"teacher_id":"user_a6e5a718-2e49-4cda-b2fa-564f56452074",
+					"teacher":"irene@yorkreikiplus.com",
+					"date":"2022-01-23",
+					"end":"2022-01-23",
+					"booked":0,
+					"limit":6
+				}
 			]
 		},
 		{
-			"name": "Reiki Deepening",
-			"description": "burble Deepening",
-			"cost": 220.00,
-			"deposit": 110.00,
-			"dates": [
-				{"date": "2022-02-20", "booked": 1, "limit": 6}
+			"id":"therapy_7e716ba2-1152-4c02-9431-36da0e15d62d",
+			"name":"Reiki Deepening",
+			"description":"Reiki Deepening: intermediate Reiki course",
+			"cost":220,
+			"deposit":110,
+			"dates":[
+				{
+					"id":"event_a95e7165-2515-4292-83bc-39050dd23c22",
+					"teacher_id":"user_a6e5a718-2e49-4cda-b2fa-564f56452074",
+					"teacher":"irene@yorkreikiplus.com",
+					"date":"2022-02-20",
+					"end":"2022-02-20",
+					"booked":0,
+					"limit":6
+				}
 			]
 		},
 		{
-			"name": "Reiki Master",
-			"description": "burble Master",
-			"cost": 480.00,
-			"deposit": 130.00,
-			"dates": [
-				{"date": "2021-11-20", "booked": 1, "limit": 4}
+			"id":"therapy_94e9ebf6-ecda-483f-911b-84d79e0fd2d8",
+			"name":"Reiki Master/Teacher",
+			"description":"Master/Teacher: advanced Reiki course",
+			"cost":480,
+			"deposit":130,
+			"dates":[
+				{
+					"id":"event_56c18d9d-998e-4e47-a1aa-0edd5ee2a7fe",
+					"teacher_id":"user_a6e5a718-2e49-4cda-b2fa-564f56452074",
+					"teacher":"irene@yorkreikiplus.com",
+					"date":"2022-03-20",
+					"end":"2022-03-21",
+					"booked":0,
+					"limit":4
+				}
 			]
 		}
 	]
