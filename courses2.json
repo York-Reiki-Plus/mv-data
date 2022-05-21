@@ -11,8 +11,8 @@
 					"id":"event_6545c187-6d6b-4e1c-9d9f-8b97cbe28d11",
 					"teacher_id":"user_a6e5a718-2e49-4cda-b2fa-564f56452074",
 					"teacher":"irene@yorkreikiplus.com",
-					"date":"2021-11-07",
-					"end":"2021-11-07",
+					"date":"2022-11-07",
+					"end":"2022-11-07",
 					"booked":0,
 					"limit":6
 				},
@@ -20,8 +20,8 @@
 					"id":"event_5bc52912-b397-45a5-bab3-83cba8b1977f",
 					"teacher_id":"user_a6e5a718-2e49-4cda-b2fa-564f56452074",
 					"teacher":"irene@yorkreikiplus.com",
-					"date":"2022-01-09",
-					"end":"2022-01-09",
+					"date":"2022-05-09",
+					"end":"2022-05-09",
 					"booked":0,
 					"limit":6
 				}
@@ -38,8 +38,8 @@
 					"id":"event_7cdc15ff-1508-4fef-bcd1-a844f83b9279",
 					"teacher_id":"user_a6e5a718-2e49-4cda-b2fa-564f56452074",
 					"teacher":"irene@yorkreikiplus.com",
-					"date":"2021-12-31",
-					"end":"2021-12-31",
+					"date":"2022-12-31",
+					"end":"2022-12-31",
 					"booked":0,
 					"limit":6
 				},
@@ -47,8 +47,8 @@
 					"id":"event_d0d823eb-b5f1-4ccd-b826-16f8b563f8f1",
 					"teacher_id":"user_a6e5a718-2e49-4cda-b2fa-564f56452074",
 					"teacher":"irene@yorkreikiplus.com",
-					"date":"2022-01-23",
-					"end":"2022-01-23",
+					"date":"2022-05-23",
+					"end":"2022-05-23",
 					"booked":0,
 					"limit":6
 				}
@@ -65,8 +65,8 @@
 					"id":"event_a95e7165-2515-4292-83bc-39050dd23c22",
 					"teacher_id":"user_a6e5a718-2e49-4cda-b2fa-564f56452074",
 					"teacher":"irene@yorkreikiplus.com",
-					"date":"2022-02-20",
-					"end":"2022-02-20",
+					"date":"2022-06-20",
+					"end":"2022-06-20",
 					"booked":0,
 					"limit":6
 				}
@@ -83,8 +83,8 @@
 					"id":"event_56c18d9d-998e-4e47-a1aa-0edd5ee2a7fe",
 					"teacher_id":"user_a6e5a718-2e49-4cda-b2fa-564f56452074",
 					"teacher":"irene@yorkreikiplus.com",
-					"date":"2022-03-20",
-					"end":"2022-03-21",
+					"date":"2022-06-20",
+					"end":"2022-06-21",
 					"booked":0,
 					"limit":4
 				}
